@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694961192395",
+    "project_id": "bitcoinpricetrackerbpt",
+    "storage_bucket": "bitcoinpricetrackerbpt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694961192395:android:643a099f73ae20b01b4a4e",
+        "android_client_info": {
+          "package_name": "com.parvesshikder.me.bitcoin_price_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694961192395-l5nr99pnv0h1rk60ui2nq7o32n90bjku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKCzJCN8tZ5pY4gqTFFYKO2ykBsiyScwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694961192395-l5nr99pnv0h1rk60ui2nq7o32n90bjku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
